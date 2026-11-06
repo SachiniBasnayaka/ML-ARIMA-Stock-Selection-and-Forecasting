@@ -57,7 +57,7 @@ The study combines fundamental and technical indicators to evaluate stock perfor
 
 ## Full Project Report
 
-[View Case Study II Report](Case_Study_II_Report.pdf)
+[View Case Study II Report](Case_Study_2_final_Report.pdf)
 
 ## Academic Information
 

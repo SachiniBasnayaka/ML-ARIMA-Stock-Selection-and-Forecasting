@@ -55,10 +55,6 @@ The study combines fundamental and technical indicators to evaluate stock perfor
 - Colombo Stock Exchange (CSE)
 - TradingView
 
-## Full Project Report
-
-[View Case Study II Report](Case_Study_2_final_Report.pdf)
-
 ## Academic Information
 
 **Author:** B. M. Sachini Chamodya
